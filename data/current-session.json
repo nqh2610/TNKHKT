@@ -1,0 +1,25 @@
+{
+  "currentSession": {
+    "classId": "class_1789955237700",
+    "className": "10A4",
+    "examId": "exam_1791338621823",
+    "examName": "De_mau"
+  },
+  "examSettings": {
+    "title": "KTTX_K10_Lan1",
+    "timeLimit": 15,
+    "isOpen": true,
+    "showScore": false,
+    "practiceMode": false,
+    "shuffleExam": true,
+    "examPassword": "",
+    "requirePassword": false,
+    "currentSession": {
+      "classId": "class_1764766952564",
+      "className": "11A4",
+      "examId": "exam_1764770257487",
+      "examName": "BaiTest_1764770257484"
+    },
+    "currentExamId": "exam_1764770257487"
+  }
+}
